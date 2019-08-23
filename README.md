@@ -1,24 +1,17 @@
-# README
+# Zachary Stone Portfolio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+>This is the Readme file for the portfolio.
 
-Things you may want to cover:
+### Things you may want to cover:
 
-* Ruby version
+- Ruby version 2.6.3
+- System: Create on OS 10.4
+- Configuration: Rails v6.0.0
+- Database: postgresql
 
-* System dependencies
+#### Features
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Real time chat engine comments
+- Blog
+- Portfolio
+- Drag and drop interface (if logged in)
